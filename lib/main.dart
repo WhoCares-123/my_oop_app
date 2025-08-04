@@ -13,9 +13,10 @@ class MyApp extends StatelessWidget {
       title: 'Hello OOP App',
       home: Scaffold(
         body: Center(
-          // Minor update to trigger pull request comparison
+          // Minor update to trigger pull request
           child: Text(
             'Hello, OOP!',
+            //minor update
             style: TextStyle(fontSize: 24),
           ),
         ),
